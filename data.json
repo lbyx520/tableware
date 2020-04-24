@@ -1,0 +1,48 @@
+{
+    "user": [
+        {
+            "user_id": "",
+            "user_password": "",
+            "user_name": "",
+            "user_age": "",
+            "user_phone": "",
+            "user_address": "",
+            "user_comment": ""
+        }
+    ],
+    "goodsType": [
+        {
+            "goodsType_id": "1/ 2/   3/  4/ 5/ 6/  7",
+            "good_type": "套装/盘子/杯子/刀/叉/筷子/碟"
+        }
+    ],
+    "goods": [
+        {
+            "goods_id": "",
+            "goods_title": "",
+            "goods_type": "套装/盘子/杯子/刀/叉/筷子/碟",
+            "goods_typeId": "1/ 2/   3/  4/ 5/ 6/  7",
+            "goods_price": "",
+            "goods_imgURL": "",
+            "goods_video": "",
+            "goods_stock": "",
+            "goods_date": ""
+        }
+    ],
+    "order": [
+        {
+            "order_id": "",
+            "order_date": "",
+            "count": "",
+            "totalPrice": "",
+            "user_id": "",
+            "user_name": "",
+            "user_phone": "",
+            "user_address": "",
+            "goods_id": "",
+            "goods_title": "",
+            "goods_imgURl": "",
+            "goods_price": ""
+        }
+    ]
+}
